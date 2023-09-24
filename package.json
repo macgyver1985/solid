@@ -1,0 +1,25 @@
+{
+  "name": "macgyver1985-solid",
+  "version": "1.0.0",
+  "description": "This project contains some examples of the applicability of SOLID concepts",
+  "main": "./dist/index.js",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macgyver1985/solid.git"
+  },
+  "keywords": [
+    "SOLID"
+  ],
+  "author": "Felipe França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macgyver1985/solid/issues"
+  },
+  "homepage": "https://github.com/macgyver1985/solid#readme"
+}
